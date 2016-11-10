@@ -1,0 +1,35 @@
+{
+  "name": "just-nu-cli",
+  "version": "1.0.0",
+  "description": "Antal JUST NU på Aftonbladet i terminalen",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint *.js",
+    "start": "node just-nu"
+  },
+  "keywords": [
+    "just",
+    "nu",
+    "aftonbladet"
+  ],
+  "author": "Jeremy Karlsson <karlsson@jeremy.se>",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "just-nu": "just-nu.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enjikaka/just-nu-cli.git"
+  },
+  "devDependencies": {
+    "eslint": "^3.3.0",
+    "eslint-config-tidal": "^1.0.3"
+  },
+  "dependencies": {
+    "colour": "^0.7.1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}

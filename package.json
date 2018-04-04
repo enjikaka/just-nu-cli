@@ -16,7 +16,7 @@
   "license": "MIT",
   "preferGlobal": true,
   "bin": {
-    "just-nu": "just-nu.js"
+    "justnu": "just-nu.js"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,6 @@
     "just-nu": "^4.0.0"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=9.10.1"
   }
 }

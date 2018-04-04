@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const justNu = require('just-nu');
 const colour = require('colour');
 

@@ -1,5 +1,5 @@
-import justNu from 'just-nu';
-import colour from 'colour';
+const justNu = require('just-nu');
+const colour = require('colour');
 
 console.log(colour.yellow('  ---------------------  '));
 console.log(colour.yellow('  A F T O N B L A D E T  '));

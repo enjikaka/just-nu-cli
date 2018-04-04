@@ -23,8 +23,8 @@
     "url": "https://github.com/enjikaka/just-nu-cli.git"
   },
   "devDependencies": {
-    "eslint": "^3.3.0",
-    "eslint-config-tidal": "^1.0.3"
+    "eslint": "^4.19.1",
+    "eslint-config-tidal": "^1.1.4"
   },
   "dependencies": {
     "colour": "^0.7.1",

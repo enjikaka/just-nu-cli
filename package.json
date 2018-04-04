@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "colour": "^0.7.1",
-    "just-nu": "^3.0.1"
+    "just-nu": "^4.0.0"
   },
   "engines": {
     "node": ">=6.0.0"

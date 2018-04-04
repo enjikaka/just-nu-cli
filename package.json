@@ -1,6 +1,6 @@
 {
   "name": "just-nu-cli",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Antal JUST NU på Aftonbladet i terminalen",
   "main": "index.js",
   "scripts": {
